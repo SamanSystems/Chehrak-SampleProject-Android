@@ -1,6 +1,7 @@
 <resources>
 
     <string name="app_name">چهرک - پروژه ی نمونه</string>
+    <string name="loadAvatar">بارگذاری</string>
     <string name="EmailError">ایمیل آدرس وارد شده معتبر نیست</string>
     <string name="onFailed">خطایی در دیافت آواتار به وجود آمد</string>
     
